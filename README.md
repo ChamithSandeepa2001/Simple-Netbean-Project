@@ -30,8 +30,8 @@ This project features a login form and a dashboard. The dashboard includes simpl
 Authors
 Original Author: Elias Abdurrahman
 Modified by: [Chamith sandeepa ]
+
 Modifications
 This version of the project has been modified to:
-
 Remove the signup page.
 Add a dashboard that performs simple calculations and can print bills.
